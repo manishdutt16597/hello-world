@@ -1,2 +1,1 @@
-# hello-world
-xyz
+i am manish dutt 
